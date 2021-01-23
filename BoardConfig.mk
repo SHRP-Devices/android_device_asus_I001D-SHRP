@@ -142,3 +142,17 @@ TARGET_USES_LOGD := true
 
 #BOARD_CUSTOM_BOOTIMG_MK := device/asus/I001D/custombootimg.mk
 #LZMA_RAMDISK_TARGETS := recovery
+
+# SHRP Variables
+SHRP_DEVICE_CODE := I001D
+SHRP_PATH := device/asus/I001D
+SHRP_MAINTAINER := Divkix
+SHRP_OFFICIAL := true
+SHRP_REC_TYPE := Treble
+SHRP_DEVICE_TYPE := A/B
+SHRP_EDL_MODE := 1
+SHRP_INTERNAL := /sdcard
+SHRP_AB := true
+SHRP_DARK := true
+SHRP_FLASH := 1
+SHRP_EXPRESS := true
